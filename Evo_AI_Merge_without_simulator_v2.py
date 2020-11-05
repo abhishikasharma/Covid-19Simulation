@@ -2,7 +2,9 @@
 """
 Created on Mon Nov  2 10:30:13 2020
 
-@author: Admin
+@author: Abhishika Sharma, Rashmi Naik, Ayesha Shakeel
+
+The below code runs for 20 generations, 6 individuals and recording the fitness scores at timestep = 1000
 """
 
 import pycxsimulator
