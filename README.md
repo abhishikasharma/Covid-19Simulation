@@ -31,7 +31,7 @@ Different experiments can be run on the above code with varying generations and 
 <br> 
 <br>
 
-Contributors : <br>
+<B>Contributors :</B> <br>
 
 Abhishika Sharma (Master Student, Cloud based services and operations, ACIT, OsloMet) <br>
 Rashmi Naik (Master Student, Artificial Intelligence, ACIT, OsloMet) <br>
