@@ -1,6 +1,8 @@
 # Covid-19 Simulation
 
-This github link contains the Python code developed for academic project for Evolutionary Artificial Intelligence and Robotics course. The code aims to simulate Covid-19 pandemic using the CA model to reduce the infection spread of coronavirus based on evolvable parameters- maskrate and hand sanitizer.<br>
+This github link contains the Python code developed for academic project for Evolutionary Artificial Intelligence and Robotics course. <br>
+
+The code aims to simulate Covid-19 pandemic using the CA model to reduce the infection spread of coronavirus based on evolvable parameters- maskrate and hand sanitizer.<br>
 
 Evolutionary Algorithm is also being implemented in the code. Recording the fitness scores with every individual, selecting the fittest parents, performing crossover and mutation is being done in the program.<br>
 
