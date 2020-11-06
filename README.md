@@ -2,7 +2,7 @@
 
 This github link contains the Python code developed for academic project for Evolutionary Artificial Intelligence and Robotics course. <br>
 
-The <B>Update Basic Model.py</B> contains the basic implementation of the CA model with the PyCx GUI and without the Evolutionary AI.
+The <B>Updated Basic Model.py</B> contains the basic implementation of the CA model with the PyCx GUI and without the Evolutionary AI.
 <BR>
 The <B>Evo_AI_Merge_without_simulator.py</B> contains the full code with implementation of Evolutionary AI but without the PyCx GUI.
 <BR>
