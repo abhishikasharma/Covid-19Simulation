@@ -2,6 +2,13 @@
 
 This github link contains the Python code developed for academic project for Evolutionary Artificial Intelligence and Robotics course. <br>
 
+The <B>Update Basic Model.py</B> contains the basic implementation of the CA model with the PyCx GUI and without the Evolutionary AI.
+<BR>
+The <B>Evo_AI_Merge_without_simulator.py</B> contains the full code with implementation of Evolutionary AI but without the PyCx GUI.
+<BR>
+The <B>Experiment Output.docs</B> contains all the output screenshots of all the simulations run with different generations, individuals and timesteps.
+<BR>
+
 The code aims to simulate Covid-19 pandemic using the CA model to reduce the infection spread of coronavirus based on evolvable parameters- maskrate and hand sanitizer.<br>
 
 Evolutionary Algorithm is also being implemented in the code. Recording the fitness scores with every individual, selecting the fittest parents, performing crossover and mutation is being done in the program.<br>
