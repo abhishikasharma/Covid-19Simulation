@@ -21,7 +21,9 @@ Different experiments can be run on the above code with varying generations and 
  The simulation can be run with different timesteps, to do that change the time value in the observe() method and also in the main() method inside the while loop.
 <br> 
 
+
 Contributors : <br>
+
 Abhishika Sharma (Master Student, Cloud based services and operations, ACIT, OsloMet) <br>
 Rashmi Naik (Master Student, Artificial Intelligence, ACIT, OsloMet) <br>
 Ayesha Shakeel (Master Student, Cloud based services and operations, ACIT, OsloMet) <br>
